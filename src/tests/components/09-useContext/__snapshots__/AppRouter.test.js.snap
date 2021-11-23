@@ -1,0 +1,63 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Testing <RealExampleRef/> MatchSnapshot 1`] = `
+<div>
+  <nav
+    class="navbar navbar-expand-lg navbar-dark bg-dark"
+  >
+    <div
+      class="container-fluid"
+    >
+      <a
+        class="navbar-brand"
+        href="#"
+      >
+        Navbar
+      </a>
+      <div
+        class="collapse navbar-collapse"
+        id="navbarNavAltMarkup"
+      >
+        <div
+          class="navbar-nav"
+        >
+          <a
+            aria-current="page"
+            className="nav-link active active"
+            href="/"
+            onClick={[Function]}
+            style={Object {}}
+          >
+            Home 
+          </a>
+          <a
+            aria-current={null}
+            className="nav-link"
+            href="/login"
+            onClick={[Function]}
+          >
+            Login 
+          </a>
+          <a
+            aria-current={null}
+            className="nav-link"
+            href="/about"
+            onClick={[Function]}
+          >
+            About 
+          </a>
+        </div>
+      </div>
+    </div>
+  </nav>
+  <div>
+    <h1>
+      HomeApp
+    </h1>
+    <hr />
+    <pre>
+      {"id":1,"email":"edwin@example.com"}
+    </pre>
+  </div>
+</div>
+`;
